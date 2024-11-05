@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @minhhieu2012.
+- 👀 I’m interested in html.
+- 🌱 I’m currently learning python, javascript, html, css, C++.
+- ⚡ Fun fact: 1 + 1 = 2.
