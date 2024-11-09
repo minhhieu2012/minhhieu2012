@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, JS, Html, Css, C++**
 
-- 💬 Ask me about **Python and Javascript**
+- 💬 Ask me about **Python and Node.js**
 
 - ⚡ Fun fact **The earth is not flat**
 
